@@ -1,5 +1,5 @@
 # Goal
-- Keep a set of tools to work as smooth as possbile with Google Jules.
+- Keep a set of tools to work as smooth as possible with Google Jules.
 
 # Config
 - Create every new issues with the label "jules" by default
