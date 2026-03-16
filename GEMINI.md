@@ -3,6 +3,8 @@
 
 # Config
 - Create every new issues with the label "jules" by default
+  - Add the matching template
+  - Disable the creation of empty issues without labels
 - Add every "jules" labels issues to the project https://github.com/users/chatelao/projects/14
 
 # ROADMAP rules
